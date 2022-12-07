@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+config.csv
+output/
+supersededScripts/
+test20221205.csv
